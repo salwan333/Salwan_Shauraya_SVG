@@ -1,0 +1,18 @@
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 879.78 849.12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #33c;
+        stroke-width: 0px;
+        transition: fill 0.3s ease, transform 0.3s ease;
+      }
+      .cls-1:hover {
+        fill: #ff7f50; /* Change to the desired color */
+        transform: scale(1.2); /* Expand the size on hover */
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <path id="Icon_awesome-mandalorian" data-name="Icon awesome-mandalorian" class="cls-1" d="..."/>
+  </g>
+</svg>

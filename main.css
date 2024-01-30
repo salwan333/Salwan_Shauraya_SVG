@@ -42,3 +42,23 @@ footer {
     bottom: 0;
     width: 100%;
 }
+#american football :hover #bg {
+    fill: aqua;
+}
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust this if needed */
+}
+
+.center-container object {
+    width: 250; /* Adjust this based on your design */
+    height: 250;
+}
+h1 { text-align: center;
+    size: large;
+    color: #000000;
+   
+
+}
