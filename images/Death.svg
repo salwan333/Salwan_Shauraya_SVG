@@ -5,11 +5,11 @@
      cls-1 {
         fill: #3fe6ff;
         stroke-width: 0px;
-        transition: fill 0.3s ease; /* Add transition for smooth color change */
+        transition: fill 0.3s ease; 
       }
 
       .cls-1:hover {
-        fill: #ffcc00; /* Change the color to yellow when hovered */}
+        fill: #ffcc00; 
     </style>
   </defs>
   <g id="Layer_1-2" data-name="Layer 1">

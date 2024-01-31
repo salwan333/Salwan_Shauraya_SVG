@@ -1,7 +1,10 @@
-/* Reset some default margin and padding */
+
 body, h1, h2, h3, p, ul {
     margin: 0;
     padding: 0;
+}
+#main-container{
+    display: flex;
 }
 
 /* Apply a basic styling to the header */
@@ -47,13 +50,13 @@ footer {
 }
 .center-container {
     display: flex;
-    justify-content: center;
-    align-items: center;
+    /* justify-content: center;
+    align-items: center; */
     height: 100vh; /* Adjust this if needed */
 }
 
 
-h1 { text-align: center;
+/* h1 { text-align: center;
     size: large;
     color: #000000;
     
@@ -63,4 +66,4 @@ h1 { text-align: center;
         display: block;
         margin-bottom: 10px;
     }
-}
+} */
