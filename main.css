@@ -52,13 +52,15 @@ footer {
     height: 100vh; /* Adjust this if needed */
 }
 
-.center-container object {
-    width: 250; /* Adjust this based on your design */
-    height: 250;
-}
+
 h1 { text-align: center;
     size: large;
     color: #000000;
-   
+    
 
+}@media only screen and (max-width: 600px) {
+    nav li {
+        display: block;
+        margin-bottom: 10px;
+    }
 }
