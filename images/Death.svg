@@ -10,6 +10,7 @@
 
       .cls-1:hover {
         fill: #ffcc00; 
+      }
     </style>
        <script>
 console.log('JavaScript is running!');
