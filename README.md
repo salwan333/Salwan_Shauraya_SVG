@@ -12,7 +12,7 @@
 5. Submit a pull request :D
 
 ## Credits
-credits goes to shauraya salwan thanks.
+credits goes to shauraya salwan
 
 ## License
 MIT
