@@ -7,7 +7,7 @@ body, h1, h2, h3, p, ul {
     display: flex;
 }
 
-/* Apply a basic styling to the header */
+
 header {
     background-color: #f26767;
     color: #fff;
@@ -15,7 +15,7 @@ header {
     text-align: center;
 }
 
-/* Style the navigation inside the header */
+
 nav ul {
     list-style: none;
 }
@@ -30,12 +30,12 @@ nav a {
     color: #000000;
 }
 
-/* Apply a basic styling to the main content */
+
 main {
     padding: 20px;
 }
 
-/* Apply a basic styling to the footer */
+
 footer {
     background-color: #ed5454;
     color: #fff;
@@ -50,9 +50,7 @@ footer {
 }
 .center-container {
     display: flex;
-    /* justify-content: center;
-    align-items: center; */
-    height: 100vh; /* Adjust this if needed */
+    height: 100vh; 
 }
 
 
