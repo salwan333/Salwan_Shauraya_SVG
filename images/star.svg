@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 299.83 285.63">
+<svg id="star" data-name="star" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 299.83 285.63">
   <defs>
     <style>
       .cls-1, .cls-2 {
@@ -9,9 +9,26 @@
       .cls-2 {
         fill: #f93;
       }
+       .cls-1:hover {
+        fill: #ffcc00;
+      }
     </style>
+    <script>
+console.log('JavaScript is running!');
+
+
+
+const vectorGraphic = document.querySelector('#star');
+
+function logThisId() {
+    console.log(this);
+    console.log('its connected now!:', this.id);
+}
+
+vectorGraphic.addEventListener('click', logThisId);
+</script>
   </defs>
-  <g id="Layer_1-2" data-name="Layer 1">
+  <g id="star" data-name="star">
     <g>
       <g>
         <polygon class="cls-2" points="149.27 235.88 57.03 283.77 75.12 181.43 1.07 108.51 104 94.09 150.47 1.13 195.99 94.56 298.75 110.03 223.96 182.19 241.01 284.71 149.27 235.88"/>
